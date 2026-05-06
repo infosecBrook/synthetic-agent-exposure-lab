@@ -1,0 +1,7 @@
+Employee Directory - Demo Data Only
+
+Jordan Lee - Cloud Migration Lead - Platform Engineering
+Priya Shah - DevSecOps Analyst - Security
+Morgan Alvarez - AI Assistant Product Manager - Internal Tools
+Taylor Brooks - Compliance Coordinator - Governance
+Riley Chen - Site Reliability Engineer - Infrastructure

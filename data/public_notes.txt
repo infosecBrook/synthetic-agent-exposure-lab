@@ -1,0 +1,5 @@
+General company note:
+
+The Q2 cloud migration will move selected internal dashboards into a staged cloud environment.
+The AI assistant pilot will help employees summarize public project notes, find directory
+information, and answer operational questions using approved local tools.
