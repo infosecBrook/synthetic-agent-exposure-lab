@@ -2,7 +2,6 @@
 
 Safe local AI security demo showing how an AI agent becomes riskier when a real local LLM is connected to tools, files, commands, and simulated business data.
 
-Video title idea: **I Gave an AI Agent System Access - Then Secured It**
 
 ## What This Demonstrates
 
